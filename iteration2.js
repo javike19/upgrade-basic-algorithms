@@ -1,13 +1,13 @@
 //#2 Variables avanzadas
 //1.1
-/*const character = {name: 'Jack Sparrow', age: 10};
+const character = {name: 'Jack Sparrow', age: 10};
 
-age = 25; */
+age = 25;
 
 
 //1.2
-/*let firstName = 'Jon'; 
+let firstName = 'Jon'; 
 let lastName = 'Snow'; 
 let age = 24; 
 
-console.log("Soy " + firstName + " " + lastName + ", tengo " + age + " años y me gustan los lobos.");*/
+console.log("Soy " + firstName + " " + lastName + ", tengo " + age + " años y me gustan los lobos.");
